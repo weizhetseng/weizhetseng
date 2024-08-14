@@ -3,17 +3,15 @@
 <h3 align="center">Frontend Development</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  " alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="react logo"  />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/VUE-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="vue3 logo"  />
-  <img src="  https://img.shields.io/badge/NUXT-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxtjs logo"  />  
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-  " alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/NUXT-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxtjs logo"  />  
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss logo"  />
   <img src="https://img.shields.io/badge/BOOTSTRAP 5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap5 logo"  />
   <img src="https://img.shields.io/badge/UNO%20CSS-333333?style=for-the-badge&logo=unocss&logoColor=white" alt="bootstrap5 logo"  />
   
